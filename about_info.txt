@@ -1,0 +1,9 @@
+********************************
+  Model Displayer - Version 1.0
+
+         Author: Kun Li         
+      student ID: 104666072 
+     
+         Date: Nov. 2014      
+       All rights reserved     
+********************************

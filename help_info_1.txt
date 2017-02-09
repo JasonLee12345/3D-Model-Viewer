@@ -1,0 +1,55 @@
+********************************
+*Model Displayer - version 1.0*
+********************************
+
+Brief Information about the Software Organization:
+
+1. MenuBar
+
+2. ToolBar
+
+3. DockWidget
+
+4. Buttons Group
+
+5. RadioButton Group
+
+6. Main Displaying Window Widget
+*********************************************************************
+
+The state of the software after you open it:
+
+1. The software has already initialized the shader program. 
+This initial shader is using "Per Pixel Shading". 
+
+2. It uses the Phong-Model of the pixel level rendering method as well. 
+
+3. The lights are already initialized and enabled. 
+After you cancel and disable the shader program, 
+you can see the lighting condition of the overall scene. 
+
+4. Three lights are already initailized. They are located 
+at three locations: left, right, and in front of the objects.
+
+5. Lights parameters are already initialized. And you can change the 
+lighting attributes by yourself at the right side of the control panel.
+
+6. The program is using a space ship model and its texture once you open it.
+*********************************************************************
+
+How to use:
+
+1. Lighting conditions:
+
+At the left side of the this window, you can see lots of parameters of 
+the totally three lights. These attributes are all working completely 
+to their relative lights. As the lights are already initialized, if you 
+want to see the pure results after changing of the lighting condition, 
+I recommend you to disable the Phong-Model Shading Method, and 
+enabled the lights by clicking "EnableLighting" button. The condition 
+of lights and material are controled by three main channels, ambient, 
+diffuse, and specular. As the material nature, it also has components 
+like shininess, elumination. Here, we just introduced the shininess. 
+You can control these parameters by yourself by sliding these sliders 
+and clicking the buttons. It's very easy for using.
+

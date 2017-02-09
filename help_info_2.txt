@@ -1,0 +1,36 @@
+How to use:
+*********************************************************************
+
+2. Enable and Disable the shaders:
+
+You can see a radio button group at the right bottom corner.
+By clicking that, you can run the shader program or detach it.
+If you want to change the shader type, find them in the menu bar.
+*********************************************************************
+
+3. The Dock Widget:
+
+At the left hand side, there is a dock widget. You can detach it from
+that side by clicking the top bar of that widegt window and do not 
+release your mouse. Place it wherever you want.
+
+This dock widget contains the lights' position control sliders. You can 
+slide them to change the positions of lights.
+*********************************************************************
+
+4. About the Menu bar:
+
+There are four branches of the menubar. You can find these important 
+information and exit the program in the "File" branch. 
+
+The model branch has many models for you to change.
+
+About the shader branch, if already enabled the Phong-Model Shading, 
+You can change shaders by clicking them.
+*********************************************************************
+
+5. The Tool bar:
+
+The tool bar owns buttons for changing some frequently-uesed functions. 
+Easy for manipulating the models and shaders you like!
+

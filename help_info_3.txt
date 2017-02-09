@@ -1,0 +1,11 @@
+Brief Instruction:
+
+1. You can spin the object in the showing window by clicking 
+and moving your mouse.
+
+2. Use middle wheel button to zoom in and out the scene.
+
+3. Press keyboard as W, S, A, D to walk around.
+
+3. To see your nearby objects, use UP, Down, Left and Right 
+keys at you keyboard. 
